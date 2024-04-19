@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Westerops  
   
 
-- 🌱 I’m currently learning Next js and Flutter  
+- 🌱 I’m currently learning Next js and React Native  
   
 
 - ❓ Ask me about anything related to Frontend and related technologies  
