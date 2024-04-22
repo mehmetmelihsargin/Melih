@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Next js and React Native  
   
 
-- ❓ Ask me about anything related to Frontend and related technologies  
+- ❓ Ask me about anything Frontend and related technologies  
   
 
 <br/>  
