@@ -3,18 +3,14 @@
 </div>  
   
 
-### <div align="center">I'm Melih, a Frontend Developer 👨‍💻</div>  
+### <div align="center">I'm Melih, a Frontend Developer</div>  
   
 
-- 🔭 I’m currently working on Westerops  
+-  I’m currently working on Westerops  
   
 
-- 🌱 I’m currently learning Next js and React Native  
+-  I’m currently learning React - Next.js, Node.js and React Native  
   
-
-- ❓ Ask me about anything Frontend and related technologies  
-  
-
 <br/>  
 
 
